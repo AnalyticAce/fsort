@@ -9,7 +9,7 @@ tidyfs is a simple and efficient command-line tool to organize files in a direct
 - Lightweight and easy to use.
 
 ## Installation
-Ensure you have Python installed (>=3.7), then install the required dependencies:
+Ensure you have Python installed (>=3.6), then install the required dependencies:
 
 ```sh
 pip install tidyfs
