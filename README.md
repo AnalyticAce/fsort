@@ -37,7 +37,7 @@ This example runs the file organization process every day at 2 AM.
 - `cron-validator` for validating cron expressions
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ## Contributing
 Pull requests and suggestions are welcome! Feel free to submit issues or contribute to improvements.
