@@ -1,14 +1,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='fsort',
+    name='tidyfs',
     version='1.0.0',
     author='DOSSEH Shalom',
     author_email='dossehdosseh14@gmail.com',
-    description='A simple CLI tool to organize files in a directory',
+    description='tidyfs is a simple CLI tool to organize files in a directory',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/AnalyticAce/fsort',
+    url='https://github.com/AnalyticAce/tidyfs',
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
@@ -23,7 +23,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'fsort=fsort.cli:app',
+            'tidyfs=tidyfs.cli:app',
         ],
     }
 )

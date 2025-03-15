@@ -5,7 +5,7 @@ from cron_validator import CronValidator
 
 app = typer.Typer(
     add_completion=True,
-    help="A simple CLI tool to organize files in a directory"
+    help="tidyfs is a simple CLI tool to organize files in a directory"
 )
 
 @app.command(

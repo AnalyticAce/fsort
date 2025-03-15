@@ -1,6 +1,6 @@
 # File Organizer CLI
 
-A simple and efficient command-line tool to organize files in a directory by sorting them into folders based on their extensions. This tool also supports scheduling the file organization process using cron jobs.
+tidyfs is a simple and efficient command-line tool to organize files in a directory by sorting them into folders based on their extensions. This tool also supports scheduling the file organization process using cron jobs.
 
 ## Features
 - Automatically moves files into categorized folders based on their extensions.
@@ -41,4 +41,3 @@ This project is licensed under the MIT License.
 
 ## Contributing
 Pull requests and suggestions are welcome! Feel free to submit issues or contribute to improvements.
-
