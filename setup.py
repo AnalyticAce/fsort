@@ -18,7 +18,6 @@ setup(
     python_requires='>=3.6',
     install_requires=[
         'typer',
-        'pathlib',
         'cron-validator',
     ],
     entry_points={
